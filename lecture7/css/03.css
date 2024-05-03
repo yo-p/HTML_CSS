@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+.header {
+    background-color: #32abf8;
+    position: fixed;
+    height: 50px;
+    width: 100%;
+    z-index: 999;
+}
+
+.main {
+    padding-top: 50px;
+}

@@ -1,0 +1,14 @@
+.list {
+    display: flex;
+    list-style: none;
+}
+
+.item:before {
+    content: '>';
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.item:first-child:before {
+    content: '';
+}

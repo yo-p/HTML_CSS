@@ -1,0 +1,20 @@
+.target-1 {
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.target-2 {
+    border: 1px solid black;
+    height: 100px;
+    width: 200px;
+    border-radius: 50px;
+}
+
+.target-3 {
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+}
