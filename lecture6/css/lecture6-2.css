@@ -1,0 +1,33 @@
+.header {
+    background-color: red;
+    height: 100px;
+}
+
+.outer {
+    display: flex;
+    background-color: yellow;
+    padding: 10px 15px;
+}
+
+.nav {
+    background-color: green;
+    width: 25%;
+    height: 400px;
+}
+
+.main {
+    background-color: #32abf8;
+    height: 400px;
+    width: 50%;
+}
+
+.aside {
+    background-color: lightgray;
+    height: 400px;
+    width: 25%;
+}
+
+.footer {
+    background-color: blue;
+    height: 100px;
+}

@@ -1,0 +1,16 @@
+.image-area {
+    border: 1px solid black;
+    width: 60%;
+    margin: auto;
+}
+
+.image-list {
+    display: flex;
+    list-style: none;
+    padding: 10px 15px;
+    justify-content: space-between;
+}
+
+.image {
+    height: 150px;
+}
